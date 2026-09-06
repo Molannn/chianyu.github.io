@@ -7,7 +7,7 @@ author_profile: true
 
 法郎資訊工作室(統一編號 00611651),由葉芊妤擔任團隊代表,致力於整合法律與資訊科技,開發跨域AI法律應用。
 
-團隊競賽成果詳見 [Portfolio](/portfolio/) 頁面,以下為工作室基本資訊與媒體報導。
+團隊競賽成果詳見 [Portfolio]({{ site.baseurl }}/portfolio/) 頁面,以下為工作室基本資訊與媒體報導。
 
 ## 工作室資訊
 

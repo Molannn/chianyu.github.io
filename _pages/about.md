@@ -26,7 +26,7 @@ redirect_from:
 - 政大AI跨域研究中心 德利盟AI獎學金
 - 政大AI跨域研究中心 AI跨域榮譽榜
 
-完整經歷請見[簡歷頁](/cv/),研究著作請見[研究著作 Publications](/publications/),發表場次請見[Talks](/talks/),教學經歷請見[Teaching](/teaching/),競賽與團隊成果請見[Portfolio](/portfolio/)與[法郎團隊頁](/startup/),媒體專訪請見[Blog Posts](/posts/)。
+完整經歷請見[簡歷頁]({{ site.baseurl }}/cv/),研究著作請見[研究著作 Publications]({{ site.baseurl }}/publications/),發表場次請見[Talks]({{ site.baseurl }}/talks/),教學經歷請見[Teaching]({{ site.baseurl }}/teaching/),競賽與團隊成果請見[Portfolio]({{ site.baseurl }}/portfolio/)與[法郎團隊頁]({{ site.baseurl }}/startup/),媒體專訪請見[Blog Posts]({{ site.baseurl }}/posts/)。
 
 ## 聯絡方式
 

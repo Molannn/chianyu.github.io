@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-教學助理經歷詳見 [Teaching](/teaching/) 頁面,論文發表場次詳見 [Talks](/talks/) 頁面,競賽與新創成果詳見 [Portfolio](/portfolio/) 頁面。
+教學助理經歷詳見 [Teaching]({{ site.baseurl }}/teaching/) 頁面,論文發表場次詳見 [Talks]({{ site.baseurl }}/talks/) 頁面,競賽與新創成果詳見 [Portfolio]({{ site.baseurl }}/portfolio/) 頁面。
 
 ## 學歷
 
