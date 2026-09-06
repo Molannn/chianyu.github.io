@@ -6,9 +6,15 @@ main:
     url: /about/
   - title: "研究著作"
     url: /publications/
+  - title: "Talks"
+    url: /talks/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Portfolio"
+    url: /portfolio/
   - title: "簡歷"
     url: /cv/
   - title: "法郎團隊"
     url: /startup/
-  - title: "文章 / 專訪"
+  - title: "專訪"
     url: /year-archive/
