@@ -13,9 +13,9 @@ title                    : "Chian-Yu Ye"
 title_separator          : "-"
 name                     : &name "Chian-Yu (Joanne) Ye"
 description              : &description "法律 × 資訊科學 | 法律科技與AI治理研究者"
-url                      : https://chianyu.github.io # 請確認這是你實際的 GitHub 帳號.github.io,如果不是請改成正確網址
+url                      : https://chianyu.github.io
 baseurl                  : ""
-repository               : "chianyu/molannn.github.io" # 請改成你實際的 帳號/repo名稱
+repository               : "Molannn/chianyu.github.io" 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
