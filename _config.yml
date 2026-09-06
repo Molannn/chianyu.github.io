@@ -22,7 +22,7 @@ repository               : "molannn/portfolio"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "chianyu.jpg" # 把履歷中的畢業照放到 images/ 資料夾,改成一樣的檔名
+  avatar           : "profile.png" # 把履歷中的畢業照放到 images/ 資料夾,改成一樣的檔名
   name             : "Chian-Yu (Joanne) Ye"
   pronouns         :
   bio              : "國立政治大學法律學系,輔修資訊科學系。研究興趣:著作權與資料授權、LLM治理、法律文本計算分析、跨法域比較法。"
@@ -82,14 +82,14 @@ author:
   youtube          :
   zhihu            :
 
-# Publication Category - The following the list of publication categories and their headings
-publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+# Publication Category(暫不使用分類篩選,publications.html 會直接依日期列出全部論文)
+# publication_category:
+#   books:
+#     title: 'Books'
+#   manuscripts:
+#     title: 'Journal Articles'    
+#   conferences:
+#     title: 'Conference Papers'
 
 # Site Settings
 teaser                   :
