@@ -22,7 +22,7 @@ repository               : "Molannn/chianyu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "chianyu.png" # 把履歷中的畢業照放到 images/ 資料夾,改成一樣的檔名
+  avatar           : "chianyu.jpg" # 把履歷中的畢業照放到 images/ 資料夾,改成一樣的檔名
   name             : "Chian-Yu (Joanne) Ye"
   pronouns         :
   bio              : "國立政治大學法律學系,輔修資訊科學系。研究興趣:著作權與資料授權、LLM治理、法律文本計算分析、跨法域比較法。"
