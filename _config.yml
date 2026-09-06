@@ -13,16 +13,16 @@ title                    : "Chian-Yu Ye"
 title_separator          : "-"
 name                     : &name "Chian-Yu (Joanne) Ye"
 description              : &description "法律 × 資訊科學 | 法律科技與AI治理研究者"
-url                      : https://chianyu.github.io
-baseurl                  : ""
-repository               : "Molannn/chianyu.github.io" 
+url                      : https://molannn.github.io
+baseurl                  : "/portfolio"
+repository               : "molannn/portfolio"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "chianyu.jpg" # 把履歷中的畢業照放到 images/ 資料夾,改成一樣的檔名
+  avatar           : "profile.png" # 把履歷中的畢業照放到 images/ 資料夾,改成一樣的檔名
   name             : "Chian-Yu (Joanne) Ye"
   pronouns         :
   bio              : "國立政治大學法律學系,輔修資訊科學系。研究興趣:著作權與資料授權、LLM治理、法律文本計算分析、跨法域比較法。"
@@ -51,7 +51,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  github           : "chianyu" # 請改成你實際的 GitHub 使用者名稱
+  github           : "molannn"
   kaggle           :
   stackoverflow    :
 
